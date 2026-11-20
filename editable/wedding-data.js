@@ -68,6 +68,7 @@ window.WEDDING_DATA = {
     divider: "./editable/assets/divider.png",
     floral: "./editable/assets/floral.png",
     audio: "./editable/assets/bgm.mp3",
-    songTitle: "Wedding BGM"
+    songTitle: "Wedding BGM",
+    ogImage: "./editable/assets/og-image.jpg"
   }
 };
