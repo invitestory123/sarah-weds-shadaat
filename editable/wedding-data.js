@@ -69,6 +69,7 @@ window.WEDDING_DATA = {
     floral: "./editable/assets/floral.png",
     audio: "./editable/assets/bgm.mp3",
     songTitle: "Wedding BGM",
-    ogImage: "./editable/assets/og-image.jpg"
+    ogImage: "./og-image.jpg",
+    ogLogo: "./og-logo.png"
   }
 };
