@@ -66,6 +66,8 @@ window.WEDDING_DATA = {
     introVideo: "./editable/assets/intro.mp4",
     coupleVideo: "./editable/assets/couple.mp4",
     divider: "./editable/assets/divider.png",
-    floral: "./editable/assets/floral.png"
+    floral: "./editable/assets/floral.png",
+    audio: "./editable/assets/bgm.mp3",
+    songTitle: "Wedding BGM"
   }
 };
